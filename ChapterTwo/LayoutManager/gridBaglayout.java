@@ -62,7 +62,7 @@ public class gridBaglayout {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
                 new gridBaglayout();
-            }
+            } 
         });
     }
     
